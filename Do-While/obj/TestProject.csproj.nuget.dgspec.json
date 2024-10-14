@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/cursoC-/For/TestProject.csproj": {}
+    "/workspaces/cursoC-/Do-While/TestProject.csproj": {}
   },
   "projects": {
-    "/workspaces/cursoC-/For/TestProject.csproj": {
+    "/workspaces/cursoC-/Do-While/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/cursoC-/For/TestProject.csproj",
+        "projectUniqueName": "/workspaces/cursoC-/Do-While/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/workspaces/cursoC-/For/TestProject.csproj",
+        "projectPath": "/workspaces/cursoC-/Do-While/TestProject.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/cursoC-/For/obj/",
+        "outputPath": "/workspaces/cursoC-/Do-While/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
