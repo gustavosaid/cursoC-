@@ -1,0 +1,15 @@
+/workspaces/cursoC-/Modulo3/bin/Debug/net8.0/Modulo3
+/workspaces/cursoC-/Modulo3/bin/Debug/net8.0/Modulo3.deps.json
+/workspaces/cursoC-/Modulo3/bin/Debug/net8.0/Modulo3.runtimeconfig.json
+/workspaces/cursoC-/Modulo3/bin/Debug/net8.0/Modulo3.dll
+/workspaces/cursoC-/Modulo3/bin/Debug/net8.0/Modulo3.pdb
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.AssemblyInfoInputs.cache
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.AssemblyInfo.cs
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.csproj.CoreCompileInputs.cache
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.sourcelink.json
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.dll
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/refint/Modulo3.dll
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.pdb
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/Modulo3.genruntimeconfig.cache
+/workspaces/cursoC-/Modulo3/obj/Debug/net8.0/ref/Modulo3.dll
